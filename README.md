@@ -4,7 +4,7 @@ This Project Goal's,Use Elastic Search in Spring Boot again.
 ## Technologies
 - Spring Boot
 - Lombok
-- Elastic Seach
+- Elastic Search
 - Docker
 
 ## Installation
